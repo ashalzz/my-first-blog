@@ -32,14 +32,12 @@
         font-size: 20px;
       }
       </style> 
-<title>Robots</title>
+<title>Django Day 1 Reflection</title>
 </head>
 <body>
 <h2>What about the Django framework do you feel confident that you understand?</h2>
+<p>I feel confident about following the tutorial from Djangogirls and from that, I am much more confident as to how the structure of Django works. For example, I memorized how to open djangogirls by coding cd djangogirls and then myvenv\Scripts\activate.</p>
 <h2>What would you like more practice using?</h2>
-<h2>What do you not understand at all yet?</h2>
-<h2>What would you like to add to your Django site?</h2>
-<h2>What dynamic feature would you like to learn about next?</h2>
-<h2>What other websites could you create with the same structure as you used in your portfolio page?</h2>
+<p>I would like to learn how to customize my blog using code and how Python is incorporated with Django.</p>
 </body>
 </html>
