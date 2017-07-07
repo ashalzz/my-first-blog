@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <style>
+      body {background-color: gainsboro;}
+      h1 {
+        color: purple;
+        font-family: 'Trebuchet MS';
+        font-size: 45px;
+      }
+      
+      h2 {
+      	color: darkviolet;
+        font-family: 'Trebuchet MS';
+        font-size: 25px;
+      }
+      
+      h3 {
+        color: purple;
+        font-family: 'Trebuchet MS';
+        font-size: 30px;
+        
+      li{
+      	color: grey;
+        font-family: 'New Gothic MT';
+        font-size: 20px;
+      }
+      
+      p{
+        color: mediumorchid;
+        font-family: 'Trebuchet MS';
+        font-size: 20px;
+      }
+      </style> 
+<title>Robots</title>
+</head>
+<body>
+<h2>What about the Django framework do you feel confident that you understand?</h2>
+<h2>What would you like more practice using?</h2>
+<h2>What do you not understand at all yet?</h2>
+<h2>What would you like to add to your Django site?</h2>
+<h2>What dynamic feature would you like to learn about next?</h2>
+<h2>What other websites could you create with the same structure as you used in your portfolio page?</h2>
+</body>
+</html>
